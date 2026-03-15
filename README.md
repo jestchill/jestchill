@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Jesthony from PH<br><br>- 🔭 I’m working as Frontend Developer <br>- ⚡ In my free time to Collaborate</p>
+<p align="left">I'm Jesthony from PH<br><br>- 🔭 I’m working as Frontend Developer <br>- 🚀 In my free time, I build and work on my own solo startup project <br> 💡 Solo Startup Founder passionate about building useful web applications </p>
 
 ###
 
