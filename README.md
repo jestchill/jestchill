@@ -75,7 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://pngimg.com/uploads/github/github_PNG28.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQF53NTrAamxCA/company-logo_200_200/B4DZfGItTUGkAQ-/0/1751375861375/resend_logo?e=2147483647&v=beta&t=NS_K9k6IUhh-GWDLNtQCyyhdhuqPN6fH5P_ZN5wDDO8" height="40" alt="resend logo"  />
